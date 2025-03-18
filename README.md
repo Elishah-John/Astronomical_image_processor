@@ -57,7 +57,7 @@ python batch_image_count.py
 
 ## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **CC BY-SA 4.0 License**.
 
 ## Author
 
