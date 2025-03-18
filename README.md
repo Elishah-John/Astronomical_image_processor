@@ -1,12 +1,12 @@
-# Astronomical Image Processor
+# Astronomical Image Analyzer
 
 ## Overview
 
-The **Astronomical Image Processor** is a Python-based GUI application that helps astronomers and researchers analyze celestial images efficiently. It provides tools for detecting objects, measuring circularity, and enhancing image clarity, making it easier to extract meaningful insights from astronomical data. It provides tools for **single-image processing, batch processing, and visualization**, allowing users to extract useful information such as object contours, circularity, edge density, and image entropy. The application is built using **Tkinter, OpenCV, Matplotlib, and SciPy**.
+The **Astronomical Image Analyzer** is a Python-based GUI application that helps astronomers and researchers analyze celestial images efficiently. It provides tools for detecting objects, measuring circularity, and enhancing image clarity, making it easier to extract meaningful insights from astronomical data. It provides tools for **single-image processing, batch processing, and visualization**, allowing users to extract useful information such as object contours, circularity, edge density, and image entropy. The application is built using **Tkinter, OpenCV, Matplotlib, and SciPy**.
 
 ## Features
 
-- **Single Image Processing:**
+- **Single Image Analysis:**
   - Load and display astronomical images.
   - Apply different colormap visualizations.
   - Detect object contours and analyze circularity.
